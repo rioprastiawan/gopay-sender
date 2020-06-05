@@ -1,0 +1,48 @@
+[
+    {
+        "name": "twlve/gojek",
+        "version": "1.1.4",
+        "version_normalized": "1.1.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twlve/gojek.git",
+            "reference": "c8daaa7eb77d7032dc11433e037026c2c043959a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twlve/gojek/zipball/c8daaa7eb77d7032dc11433e037026c2c043959a",
+            "reference": "c8daaa7eb77d7032dc11433e037026c2c043959a",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0"
+        },
+        "time": "2020-06-05T14:07:33+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Twlve\\Gojek\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Rio Prastiawan",
+                "email": "rioprastiawan19@gmail.com"
+            }
+        ],
+        "description": "Un-Official GOJEK API Wrapper",
+        "keywords": [
+            "gojek",
+            "gopay",
+            "library",
+            "payment-gateway",
+            "php",
+            "wrapper"
+        ]
+    }
+]
